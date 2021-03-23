@@ -18,7 +18,7 @@ ta.
 --.
 
 # License
---.
+GNU GENERAL PUBLIC LICENSE.
 
 # References
 --.
