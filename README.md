@@ -18,6 +18,7 @@ Seaborn.
 Matplotlib.
 Plotly.
 ta.
+statsmodels.
 
 # Installation
 To install, use pip install ta and pip install plotly, and then you can import the ta and the plotly module in your python script or jupyter notebook.
