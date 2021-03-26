@@ -1,12 +1,13 @@
 # Bitcoin Analysis and Prediction
-Technical analysis and Prediction of Bitcoin.
-
-Cryptocurrency is a digital or virtual currency that is almost impossible to counterfeit because it is cryptographically secured. Many cryptocurrencies are decentralized networks based on blockchain technology (Investopedia, 2021). Several popular cryptocurrencies on the market like Bitcoin (digital gold) and alternative coins such as Ethereum, Litecoin, etc.
-
-The aim of the project is to perform a technical analysis of the Bitcoin price and predict the Bitcoin price based on historical data. We will compare cryptocurrencies with other investment alternatives such as stocks and gold.
+This repository presents the technical analysis and prediction of Bitcoin.
 
 # Disclaimer
 This project does not endorse particular cryptocurrency or company stock. This project was conducted for educational purpose. Kindly consult experts before making any decision related to buying or selling of stocks. Cheers! :)
+
+# Introduction
+Cryptocurrency is a digital or virtual currency that is almost impossible to counterfeit because it is cryptographically secured. Many cryptocurrencies are decentralized networks based on blockchain technology (Investopedia, 2021). Several popular cryptocurrencies on the market like Bitcoin (digital gold) and alternative coins or "altcoin" such as Ethereum, Litecoin, Bitcoin Cash, Ethereum Classic, etc.
+
+The aim of the project is to perform a technical analysis of the Bitcoin price and predict the Bitcoin price based on historical data. We will compare cryptocurrencies with other investment alternatives such as stocks and gold.
 
 # Dependencies
 There are some libraries that you should intall beforehand:
