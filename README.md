@@ -2,7 +2,7 @@
 This repository presents the technical analysis and prediction of Bitcoin.
 
 # Disclaimer
-This project does not endorse particular cryptocurrency or company stock. This project was conducted for educational purpose. Kindly consult experts before making any decision related to buying or selling of stocks. Cheers! :)
+This project does not endorse particular cryptocurrency, company stock, or particular commodity. This project was conducted for educational purpose. Kindly consult experts before making any decision related to buying or selling of stocks. Cheers! :)
 
 # Introduction
 Cryptocurrency is a digital or virtual currency that is almost impossible to counterfeit because it is cryptographically secured. Many cryptocurrencies are decentralized networks based on blockchain technology (Investopedia, 2021). Several popular cryptocurrencies on the market like Bitcoin (digital gold) and alternative coins or "altcoin" such as Ethereum, Litecoin, Bitcoin Cash, Ethereum Classic, etc.
