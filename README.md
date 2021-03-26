@@ -31,3 +31,4 @@ GNU GENERAL PUBLIC LICENSE.
 3. Investopedia (2019). Autoregressive Integrated Moving Average. URL: https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp
 4. Investopedia (2021). Cryptocurrency. URL: https://www.investopedia.com/terms/c/cryptocurrency.asp
 5. Malik, F. (2021). Automating Stock Investing Technical Analysis with Python. URL: https://medium.com/fintechexplained/automating-stock-investing-technical-analysis-with-python-81c669e360b2
+6. Pai, Ping-Feng & Lin, Chih-Sheng. (2005). A hybrid ARIMA and support vector machines model in stock price forecasting. Omega (Oxford), 33(6), pp.497–505.
